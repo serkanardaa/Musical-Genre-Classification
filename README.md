@@ -1,5 +1,6 @@
 # Musical-Genre-Classification
 Musical Genre Classification by using bayesian and deep learning classifiers
+
 This repository contains the project for musical genre recognition by using Librosa features such as spectral features and MFCC in order to distinguish different genres.
 For the dataset, we have used FMA dataset: https://github.com/mdeff/fma which provides a huge number of tracks from several genres.
 
