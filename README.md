@@ -14,6 +14,6 @@ data_processing_guide.ipynb: Guide for how data_processing.py functions work.
 data_processing.py: Contains functions for processing the data such as partitioning, removal of corrupted data, showing statistical information of tracks and conversion between dataframe
 and audio files.
 
-feature_extraction.py: Contains functions for extracting features from tracks such as loading audio, windowing for stft, feature extraction and feature loading, feature saving,
+feature_extraction.py: Contains functions for extracting features from tracks such as loading audio, windowing for stft, feature extraction, feature loading, feature saving,
 and majority voting for deciding on label of songs.
 
